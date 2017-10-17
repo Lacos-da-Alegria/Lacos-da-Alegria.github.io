@@ -30,8 +30,8 @@ Informações do Projeto:
 3 - Como posso contribuir para o projeto?
 -----------------------------------------
 
-* [Primeiros passos](#)
-* [Pegando uma issue](#)
+* [Preparando o ambiente de trabalho](https://github.com/Lacos-da-Alegria/Lacos-da-Alegria.github.io/blob/master/preparando_ambiente.md)
+* [Procurando por uma issue e criando um fork](#)
 * [Enviando sua contribuição](#)
 
 4 - Pré-requisitos
